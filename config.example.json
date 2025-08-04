@@ -1,0 +1,30 @@
+{
+  "apiConfiguration": {
+    "lemApiKey": "YOUR_LEM_API_KEY_HERE",
+    "managementApiKey": "YOUR_MANAGEMENT_API_KEY_HERE",
+    "environment": "test"
+  },
+  "organizationData": {
+    "legalName": "ABC EQUIPEMENTS COLLECTIVITES",
+    "registrationNumber": "31080117000039",
+    "vatNumber": "FR43310801170",
+    "reference": "abc",
+    "address": {
+      "street": "9 rue du Petit Banc",
+      "city": "NIORT",
+      "postalCode": "79000",
+      "country": "FR"
+    }
+  },
+  "businessInformation": {
+    "industryCode": "42344",
+    "webAddress": "https://www.abc-collectivites.com/",
+    "merchantId": "DJUSTPayECOM",
+    "phoneNumber": "+33549335781"
+  },
+  "onboardingSettings": {
+    "themeId": "",
+    "redirectUrl": "https://your.redirect-url.com/",
+    "locale": "fr-FR"
+  }
+}
